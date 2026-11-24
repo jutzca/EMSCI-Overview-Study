@@ -1,10 +1,10 @@
-EMSCI retention and missing-data analysis
+## EMSCI retention and missing-data analysis
 
 This is the R code for the retention and data-completeness analyses in:
 
-The European Multi-Center Study about Spinal Cord Injury (EMSCI): An International Patient Registry and Collaborative Network Jutzeler CR*, Rupp R*, et al., EMSCI Study Group, Curt A†, Weidner N†, Rosner J†. *Shared first authorship · †Shared senior authorship
+# The European Multi-Center Study about Spinal Cord Injury (EMSCI): An International Patient Registry and Collaborative Network Jutzeler et al, 2026. Spinal Cord
 
-EMSCI is an international prospective registry for spinal cord injury, established in 2001 (31 centres, 11 countries, 7,502 participants up to 2025; NCT01571531). Assessments take place at five time windows: very acute (<16 days), acute I (16–40 days), acute II (70–98 days), acute III (150–186 days) and chronic (300–446 days).
+## EMSCI is an international prospective registry for spinal cord injury, established in 2001 (31 centres, 11 countries, 7,502 participants up to 2025; NCT01571531). Assessments take place at five time windows: very acute (<16 days), acute I (16–40 days), acute II (70–98 days), acute III (150–186 days) and chronic (300–446 days).
 
 What the script does
 Calculates retention per stage, overall and by year of injury. A stage counts only for patients whose assessment window closed before the data cut-off.
